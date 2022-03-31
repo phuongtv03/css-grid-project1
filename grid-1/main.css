@@ -42,3 +42,18 @@ img {
 .layout-item:last-child {
     grid-column: 3/5;
 }
+/* .layout-item:first-child {
+    grid-column: 1 / span 2;
+    grid-row: 1 / span 1;
+}
+.layout-item:nth-child(2),
+.layout-item:nth-child(3){
+    grid-row: 1/span 2;
+}
+.layout-item:nth-child(4),
+.layout-item:nth-child(5){
+    grid-row: 2/span 2;
+}
+.layout-item:last-child {
+    grid-column: 3/span 2;
+} */
